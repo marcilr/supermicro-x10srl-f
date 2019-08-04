@@ -1,0 +1,26 @@
+README
+Created Wed Dec 20 11:23:02 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+cpu.txt
+  CPU
+  Intel Xeon processor E5-2600 v3 and E5-1600 v3 family
+  Need 3.0Ghz or better
+
+links.txt
+  Supermicro X10SRL-F related links
+
+pdf/
+  Portable Document Files
+
+pics/
+  Picture
+
+ram.txt
+  RAM
+
+x10srl-f.txt
+  Supermicro X10SRL-F

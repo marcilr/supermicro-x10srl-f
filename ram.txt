@@ -1,0 +1,18 @@
+ram.txt
+Created Thu Dec 21 09:51:38 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+RAM
+
+Samsung DDR4 2133MHzCL15 32GB (PC4 2133) Internal Memory M386A4G40DM0-CPB
+by SAMSUNG (on approved liste)
+price: $331.29 (amazon prime - December 21, 2017)
+https://www.amazon.com/Samsung-2133MHzCL15-Internal-Memory-M386A4G40DM0-CPB/dp/B00URYU93C/ref=sr_1_5?ie=UTF8&qid=1513882208&sr=8-5&keywords=m393a4k40bb0-cpb
+
+Samsung DDR4 2133MHzCL15 8GB RegECC 1RX4 (PC4 2133)
+Internal Memory M393A1G40DB0-CPB
+8x $90.52 = $724.16 (64GB)
+4x $90.52 = $362.08 (32GB)
+price: $90.52 + $4.48 shipping (amazon - Dec 21, 2017)
+https://www.amazon.com/Samsung-2133MHzCL15-RegECC-Internal-M393A1G40DB0-CPB/dp/B00URZ9QO4/ref=sr_1_1?s=electronics&ie=UTF8&qid=1513892021&sr=1-1&keywords=M393A1G40DB0-CPB

@@ -1,0 +1,17 @@
+cpu.txt
+Created Thu Dec 21 12:37:36 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+Intel Xeon processor E5-2600 v3 and E5-1600 v3 family
+
+
+Need 3.0Ghz or better
+
+
+
+Links
+=====
+Intel Thermal Solution Cooling Fan/Heatsink
+for LGA2011 E5-2600 Processors (BXSTS200C)
+price: $35.01 (amazon prime - December 21, 2017)
+https://www.amazon.com/Intel-Solution-Heatsink-Processors-BXSTS200C/dp/B007HJAM50/ref=sr_1_2?s=electronics&ie=UTF8&qid=1513892256&sr=1-2&keywords=Intel+Xeon+processor+E5-2600

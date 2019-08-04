@@ -1,0 +1,83 @@
+x10srl-f.txt
+Created Wed Dec 20 11:24:00 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Supermicro X10SRL-F
+
+
+Features
+========
+o brand:           Supermicro
+o model:           MBD-X10SRL-F-O
+o cpu:             Single socket R3 (LGA 2011) supports
+                   Intel Xeon processor E5-2600 v3 and E5-1600 v3 family
+o socket:          Single socket R3 (LGA 2011)
+                   Supports Intel Xeon processor E5-2600 v4 / v3 and E5-1600 v4 / v3 family
+o chipset:         Intel X612
+o core/cache:      Up to 18 Cores / Up to 45MB Cache
+o ram:             8x 288Pin DDR 2133MHz
+                   Max: 512GB DDR4 2133Mhz
+                   note: 8x 32GB = 256GB
+o ecc supported:   yes
+o pcie:            2x PCI-E 3.0 x8 (in x16) slots
+                   2x PCI-E 3.0 x8 slots
+                   2x PCI-E 3.0 x4 (in x8) slots
+                   Auto-switch to 1 x8 and 1 x0
+                   1x PCI-E 2.0 x4 (in x8) slot
+
+o sata:            10x SATA3 (6Gbps) via C612
+o lan:             2x RJ45 Gigabit Ethernet LAN ports (Intel i210)
+                   1x RJ45 Dedicated IPMI LAN port
+o video:           1x VGA, 2x COM, 1x TPM
+o video chipset:   ASPEED AST2400 BMC
+o usb:             4x USB 3.0 ports (2 rear + 1 via header + 1 Type A)
+                   8x USB 2.0 ports (2 rear + 6 via header)
+o serial port:     1x serial port, 1x header
+o ipmi:            o Support for Intelligent Platform Management Interface v.2.0
+                   o IPMI 2.0 with virtual media over LAN and KVM-over-LAN support
+                   o ASPEED AST2400 BMC
+o superdom:        2x SuperDOM (Disk on Module) ports with built-in power
+o tpm:             1x TPM 1.2 20-pin Header
+o back connectors: COM1 
+                   IPMI LAN
+                   USB Port 0 (2.0)
+                   USB Port 1 (2.0)
+                   USB Port 3 (3.0)
+                   USB Port 4 (3.0)
+                   LAN1
+                   LAN2
+                   VGA Port
+                   UID Sitch
+  --pdf/MNL-1585.pdf, p. 2-17
+
+power:           24-Pin ATX Main PWR
+                 --pdf/MNL-1585.pdf, p. 2-26
+
+form factor:     ATX
+dimensions:      12" x 9.6", (30.5cm x 24.4cm)
+
+--newegg.com
+
+
+Memory
+======
+The X10SRL-F supports eight ECC DDR4 RDIMM/LRDIMM at 2400 MHz (max.)
+memory (1 DPC) up to 256GB RDIMM or 512GB LRDIMM. Populating these DIMM
+modules with a pair of memory modules of the same type and size will result in
+interleaved memory, which will improve memory performance.
+--pdf/MNL-1585.pdf, p. 2-14
+
+
+Whats in the box
+================
+o 1x Supermicro X10SRL-F motherboard
+o 6x SATA cables
+o 1x manual
+--newegg.com
+
+
+Links
+=====
+Supermicro X10SRL-F
+http://www.supermicro.com/products/motherboard/xeon/c600/x10srl-f.cfm

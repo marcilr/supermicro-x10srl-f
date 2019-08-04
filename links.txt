@@ -1,0 +1,59 @@
+links.txt
+Created Wed Dec 20 11:22:35 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Supermicro X10SRL-F related links
+
+
+Links
+=====
+Intel Xeon E5-1650 v4 Hexa-core (6 Core) 3.60 GHz Processor
+Socket LGA 2011-v3
+price: $662.54 (amazon - December 20, 2017)
+https://www.amazon.com/Intel-Xeon-E5-1650-Hexa-core-Processor/dp/B01GRDS5NC
+
+Intel Xeon E5-1650 v4 Broadwell 3.6 GHz LGA 2011-3
+140W BX80660E51650V4 Server Processor
+14 nm Broadwell
+6 x 256KB L2 Cache
+15MB L3 Cache
+140W
+o 6-core
+o 3.6 GHz
+o High-end CPU w/ ECC support
+price: $629.99 (December 20, 2017)
+https://www.newegg.com/Product/Product.aspx?Item=274-000A-00083&cm_re=xeon_e5_1650_v4-_-274-000A-00083-_-Product
+
+OS Compatibility Chart \ [ Intel C612 ]
+Good support for VMaware ESXi
+http://www.supermicro.com/support/resources/OS/C612_X10_list2.cfm
+
+Raid Setup on ESXI 6 on Supermicro MB
+Some interesting details here
+https://communities.vmware.com/thread/533586
+
+Supermicro X10SRL-F
+o Single socket R3 (LGA 2011) supports
+  Intel Xeon processor E5-2600
+  v4/v3 and E5-1600 v4/v3 family
+o Intel C612 chipset
+o Up to 1TB ECC 3DS LRDIMM, up to
+  DDR4- 2400MHz; 8x DIMM slots
+o 7x PCI-E slots total:
+  2 PCI-E 3.0 x8, 2 PCI-E 3.0 x8 (in x16),
+  2 PCI-E 3.0 x4 (in x8) or 1 x8 + 1 x0
+  (auto-switch), & 1 PCI-E 2.0 x4 (in x8)
+o Intel i210 Dual port GbE LAN
+o 10x SATA3 (6Gbps) via C612
+o 1x VGA, 2x COM, 1x TPM
+o 4x USB 3.0 ports, 8x USB 2.0 ports
+o 2x SuperDOM with built-in power
+http://www.supermicro.com/products/motherboard/xeon/c600/x10srl-f.cfm
+
+SUPERMICRO MBD-X10SRL-F Server Motherboard LGA 2011 R3
+In reviews:
+o 4x32GB Samsung DDR4 2400 sticks from the board's QVL (M393A4K40BB1-CRC)
+o Xeon E5 1650 v4 running at 3.6 ghz
+price: $248.99 (December 20, 2017)
+https://www.newegg.com/Product/Product.aspx?Item=N82E16813182927
